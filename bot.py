@@ -5,7 +5,7 @@ import os
 from telebot import types
 
 # ============== DEFAULT SETTINGS ==============
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "7634920543:AAE4RaPPd3TO26hURlyBauOsJ_zJEnLk9rY")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "7634920543:AAHLUAN1sEXsTsN0UBh5llHgeUUG-2WWRV8")
 YOUR_USER_ID = int(os.environ.get("YOUR_USER_ID", "7406197326"))
 TARGET_CHANNEL_ID = int(os.environ.get("TARGET_CHANNEL_ID", "-1003120043320"))
 TARGET_CHANNEL_USERNAME = os.environ.get("TARGET_CHANNEL_USERNAME", "@animethic2")
